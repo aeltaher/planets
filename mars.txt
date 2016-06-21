@@ -2,4 +2,8 @@ Cold and dry, but everything is my favorite color
 The two moons may be a problem for Wolfman
 Need to bring oxygen
 new line
+<<<<<<< HEAD
 coucou chloe
+=======
+coucou athi 
+>>>>>>> 9dceadd1610037b4741969787f88e502409dbd96
